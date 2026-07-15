@@ -97,8 +97,6 @@ The notebook generates:
 
 ![Customer Churn Distribution](images/churn_distribution.png)
 
----
-
 ### Random Forest Confusion Matrix
 
 ![Confusion Matrix](images/confusion_matrix.png)
