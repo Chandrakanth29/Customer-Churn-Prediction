@@ -91,6 +91,20 @@ The notebook generates:
 
 ---
 
+## 📊 Visualizations
+
+### Customer Churn Distribution
+
+![Customer Churn Distribution](images/churn_distribution.png)
+
+---
+
+### Random Forest Confusion Matrix
+
+![Confusion Matrix](images/confusion_matrix.png)
+
+---
+
 ## 🔧 Future Improvements
 
 - Hyperparameter tuning
